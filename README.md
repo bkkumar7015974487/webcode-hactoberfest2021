@@ -20,6 +20,7 @@ If you’ve never contributed to open source before, this is the perfect time to
 
 # :star2: WebWpCode-HacktoberFest-2021
 Situs Wallpaper Code web
+Repo Kedua dari AniWP-HacktoberFest-2021
 
 \
 <br />
@@ -29,7 +30,7 @@ Cara berkontribusi nya sangat mudah sekali, baca di bawah ini:
 
 1. Fork Repository
 2. Lihat isi code dan pahami hanya index.html saja
-3. Sediakan aset gambar PP ( code terbaikmu ) kamu. Jangan lupa Wallpaper **code bebas** ukuran Desktop minimal 5 gambar lalu convert dulu ke .webp biar loading web ringan
+3. Sediakan aset gambar PP ( code terbaikmu ) kamu. Jangan lupa Wallpaper **code bebas** ukuran Desktop  1 gambar lalu convert dulu ke .webp biar loading web ringan
 4. Enjoyers :sunglasses:
 
 \
